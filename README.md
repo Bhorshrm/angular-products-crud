@@ -60,7 +60,7 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/Bhorshrm/angular-products-crud.git
 
 $ cd angular-products-crud
 
@@ -83,7 +83,7 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/angular-products-crud.git
+$ git clone https://github.com/Bhorshrm/angular-products-crud.git
 
 $ cd angular-products-crud
 
@@ -101,9 +101,6 @@ $ git push origin your-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 Backend License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
 
@@ -182,4 +179,3 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 
 ---
 
-Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
